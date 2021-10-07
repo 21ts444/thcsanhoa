@@ -1,0 +1,234 @@
+.addDocumentForm {
+  display: none;
+  width: 55%;
+  background-color: #ffffff;
+  padding: 30px;
+  border: 2px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #ffffff; }
+
+.addUserDoc {
+  display: block;
+  width: 60%;
+  background-color: #ffffff;
+  padding: 30px;
+  border: 2px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #ffffff; }
+
+.divlon {
+  width: 100%;
+  height: auto; }
+
+.trai-left, .trai-left-child, .full-center-left-child {
+  width: 50%;
+  float: left; }
+
+.trai-left-child {
+  width: 30%; }
+
+.full-center-left-child {
+  width: 25%; }
+
+.phai-right, .phai-right-child, .full-center-right-child {
+  width: 49%;
+  float: right; }
+
+.phai-right-child {
+  width: 68%; }
+
+.full-center-right-child {
+  width: 84%; }
+
+.full-center-right-child1 {
+  width: 75%; }
+
+.full-center {
+  width: 100%;
+  float: right; }
+
+.QTVBelementForm {
+  background-color: #ffffff;
+  color: #333333;
+  font-family: Verdana !important; }
+
+.QTVBelementFormConfig {
+  background-color: #ffffff;
+  color: #333333;
+  font-family: Verdana !important; }
+
+.QLVBAdd {
+  background-image: url("../contentImages/add_icon.png");
+  border: 0px solid #000000; }
+
+.QLVBAdd:hover {
+  border-bottom: 1px solid #999999; }
+
+.QLVBButton, .buttDM {
+  background-image: url(../Images/buttBack.png);
+  border-radius: 3px;
+  border: none; }
+
+.QTVBTieudeBang {
+  background-image: url(../Images/Tables/tableth.png);
+  font-weight: bold;
+  height: 28px; }
+
+.QTVBTieuBangchip {
+  text-align: center;
+  border: 1px solid #CCCCCC; }
+
+.QTVBChangeColor:hover {
+  background-color: #F0F8F9; }
+
+.editVB, .deleteVB, .QTVBDownload {
+  border: none;
+  width: 26px;
+  height: 16px;
+  background-image: url(../Images/edit.png); }
+
+.QTVBDownload {
+  background-image: url(../Images/downicon.gif); }
+
+.QTVBTieudePortlet {
+  color: #0000CC;
+  font-size: 25px;
+  font-family: serif;
+  text-shadow: 0px 1px 1px #4169E1; }
+
+.QTVBtimkiem {
+  width: 100%; }
+
+.QTVBtimkiemConfig {
+  width: 100%; }
+
+.QTVBbutton {
+  height: 30px;
+  background-color: #EEEEEE;
+  border: 1px solid #CCCCCC; }
+
+.QTVBbuttonConfig {
+  height: 30px;
+  background-color: #EEEEEE;
+  border: 1px solid #CCCCCC; }
+
+.QTVBDOCdiv {
+  padding: 0%;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #CCCCCC; }
+
+.QTVBDOCdivConfig {
+  padding: 1%;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #CCCCCC; }
+
+.QTVBDownTable {
+  margin-top: 3px !important;
+  margin-left: -55px;
+  padding-right: 15px;
+  background-color: #EEEEEE;
+  text-align: left;
+  display: none;
+  padding: 5px;
+  border: 1px solid #CCCCCC;
+  position: absolute;
+  z-index: 3; }
+
+.QTVBDownTable_Mobile {
+  margin-top: 4px !important;
+  width: 90%;
+  max-width: 800px;
+  min-width: 100px;
+  padding-right: 15px;
+  background-color: #EEEEEE;
+  text-align: left;
+  display: none;
+  padding: 5px;
+  border: 1px solid #CCCCCC;
+  position: absolute;
+  z-index: 3; }
+
+.QTVBDownTable:after {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  border: 10px solid transparent;
+  border-bottom: 10px solid #EEEEEE;
+  top: -20px;
+  left: 67px; }
+
+.QTVBDownTable_Mobile:after {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  border: 10px solid transparent;
+  border-bottom: 10px solid #EEEEEE;
+  top: -20px;
+  left: 40px; }
+
+.deleteVB {
+  background-image: url(../Images/delete.png); }
+
+.QTVBtb1 {
+  font-family: Verdana;
+  font-size: 14px; }
+
+/*lOAI VAN BAN*/
+.QTVBloaiVB {
+  width: 40%;
+  border: 1px solid #CCCCCC;
+  background-image: url(../Images/back_DM.png);
+  padding: 3px;
+  padding-right: -3px; }
+
+.QTVBTitle {
+  width: 100%;
+  height: 20px;
+  text-align: center;
+  color: #ffffff; }
+
+.QTVBDivOfForm {
+  width: 99%;
+  padding: 2px;
+  background-color: #ffffff;
+  padding-bottom: 100px; }
+
+.QTVBMenu {
+  width: 100%;
+  height: 20px;
+  background-image: url(../Images/bannerbox.png);
+  padding-top: -1px;
+  padding-right-value: 1px;
+  padding-bottom: 1px;
+  padding-left-value: 1px; }
+
+.buttDM {
+  font-family: "Times New Roman", Times, serif;
+  color: #191970;
+  padding: 1px; }
+
+.Trloai:hover {
+  background-color: #FFE4B5; }
+
+.QTVBdivleft {
+  float: left;
+  width: 280px;
+  height: 30px; }
+
+.QTVBdivright {
+  float: left;
+  width: 40px;
+  height: 30px; }
+
+.QTUserbutton {
+  height: 35px;
+  background-color: #4a96e8;
+  border: 1px solid #CCCCCC;
+  color: #c7ffff; }
+
+.QTBaiVietbutton {
+  height: 35px;
+  background-color: #4a96e8;
+  border: 1px solid #CCCCCC;
+  color: #c7ffff; }
+

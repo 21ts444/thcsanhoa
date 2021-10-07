@@ -1,0 +1,125 @@
+.HAVEmFlash {
+  width: 100%;
+  height: 120px; }
+
+.QTANHDOCdiv {
+  padding: 1%;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #CCCCCC;
+  display: none;
+  background-color: #ffffff; }
+
+.BannerCheckclass {
+  width: 20px;
+  height: 20px;
+  background-image: url(../Images/check.png);
+  background-color: transparent; }
+
+.BannerNotCheckclass {
+  width: 20px;
+  height: 20px;
+  background-image: url(../Images/notcheck.png);
+  background-color: transparent; }
+
+#Banner_slideshow {
+  position: relative;
+  height: 190px; }
+
+#Banner_slideshow IMG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 8;
+  opacity: 0.0; }
+
+#Banner_slideshow IMG.active {
+  width: 100%;
+  cursor: pointer;
+  z-index: 10;
+  opacity: 1.0; }
+
+#Banner_slideshow IMG.last-active {
+  z-index: 9; }
+
+.cssAnHienIcon {
+  width: 5%; }
+
+.cssSuaXoaIcon {
+  width: 8%; }
+
+.BannerEditLib {
+  border: none;
+  width: 26px;
+  height: 16px;
+  background-image: url(../Images/edit.png);
+  background-color: transparent; }
+
+/*  */
+#Banner_slideshowNew {
+  position: relative;
+  height: 190px; }
+
+#Banner_slideshowNew IMG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 8;
+  opacity: 0.0; }
+
+#Banner_slideshowNew IMG.active {
+  width: 100%;
+  cursor: pointer;
+  z-index: 10;
+  opacity: 1.0; }
+
+#Banner_slideshowNew IMG.last-active {
+  z-index: 9; }
+
+.ListBan {
+  list-style: none; }
+
+.QTANHKhungXoa {
+  opacity: 0.7;
+  height: 30px;
+  position: absolute;
+  margin-left: 46%;
+  display: none;
+  background-color: #666666;
+  border-bottom-left-radius: 10px;
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
+  margin-top: -68px;
+  color: #ffffff; }
+
+.QTANHKhungXoaFlashh {
+  opacity: 0.7;
+  height: 30px;
+  position: absolute;
+  margin-left: 48%;
+  display: none;
+  background-color: #666666;
+  border-bottom-left-radius: 10px;
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
+  margin-top: -115px;
+  color: #ffffff;
+  z-index: 500; }
+
+.QTANHImg {
+  float: right; }
+
+.BannerChoosed {
+  border: 3px double red !important; }
+
+.HinhanhBannner {
+  width: 99.7%;
+  border: 1px solid #EEEEEE;
+  padding-bottom: 20px; }
+
+.taglib-search-iterator-page-iterator-top {
+  margin-bottom: 15px;
+  display: none !important; }
+
+.taglib-page-iterator {
+  display: none !important; }
+

@@ -1,0 +1,22 @@
+.Tieude {
+  font-family: "Times New Roman", Times, serif;
+  color: #F24F00;
+  width: 50%;
+  font-size: 18px; }
+
+.fi {
+  border: 1px solid #999999;
+  height: 25px; }
+
+.fi:hover {
+  border: 1px solid #3399FF; }
+
+.tb tr {
+  height: 35px; }
+
+.sele {
+  color: #000000;
+  border: 1px solid #999999; }
+
+.sele:hover {
+  border: 1px solid #3399FF; }

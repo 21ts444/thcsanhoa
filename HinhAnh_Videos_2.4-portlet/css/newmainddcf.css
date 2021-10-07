@@ -1,0 +1,672 @@
+.HAVideofloatLf {
+  float: left !important; }
+
+.HAVideoMrRight {
+  margin-right: 5px; }
+
+.btnLuuPos {
+  float: right; }
+
+.HAVideoAtagRed {
+  text-decoration: none !important;
+  color: red !important; }
+
+.buttonClose {
+  font-size: 14px !important;
+  font-weight: normal !important;
+  opacity: 1.2 !important;
+  margin-top: -5px  !important;
+  margin-left: 10px !important;
+  float: none !important; }
+
+.atagAudioTitle {
+  cursor: pointer;
+  text-decoration: none;
+  margin-left: 10px; }
+
+.HAVideoDSAlbumHA {
+  display: inline-block;
+  float: left;
+  margin-left: 2px; }
+
+.HAVideoDSAlbumHAC {
+  width: 100%;
+  height: 160px; }
+
+.HAVideoDSALbumTitle {
+  width: 100%;
+  height: 70px; }
+
+.HAVideoDSAlbumName {
+  word-wrap: break-word; }
+
+.HAVideoImgDSAlbumHA {
+  width: 100%;
+  height: 100% !important; }
+
+.HAVideoImgDeltail {
+  border: 1px solid #999999;
+  width: 159px;
+  height: 155px; }
+
+.HAVideoDivLeft {
+  float: left;
+  display: inline-block;
+  margin-bottom: 5px; }
+
+.HAVideoDivRight {
+  float: right;
+  display: inline-block; }
+
+.HAVideoDivViewMain {
+  border: 2px solid #CCCCCC;
+  border-radius: 5px;
+  margin-top: 5px;
+  padding: 10px;
+  box-shadow: 0px 0px 13px #CCCCCC; }
+
+.HAVideoDivViewMainContent {
+  padding-top: 60px; }
+
+.HAVideoDivViewMainDiv1 {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  margin: 0 auto; }
+
+.HAVideoDivViewMainDiv2 {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  margin: 0 auto;
+  padding-bottom: 25px; }
+
+.HAVideoWidthTnDn {
+  width: 120px !important; }
+
+.HAVideoDivViewMainDivSmall {
+  width: 100%;
+  height: 10px;
+  background-color: white;
+  margin: 0 auto;
+  padding-bottom: 25px; }
+
+.HAVideoDivViewMainDiv3 {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  margin: 0 auto; }
+
+.imgAlbumSlideShow {
+  height: 200px !important;
+  width: 100%; }
+
+.cmainslidercontent {
+  width: 100%;
+  height: 250px; }
+
+.cjslidernews1 {
+  width: 100%;
+  height: 250px; }
+
+.imgSlidingTop1 {
+  cursor: pointer;
+  margin-top: 0px; }
+
+.imgSlidingTop2 {
+  cursor: pointer; }
+
+.imgSlidingTop3 {
+  cursor: pointer; }
+
+.imgSliding {
+  cursor: pointer;
+  margin-top: 0px; }
+
+.hiddenNgonNguVideo {
+  display: none; }
+
+.dsVideoTitle {
+  cursor: pointer; }
+
+.dsVideoMoiTitle {
+  cursor: pointer; }
+
+.divCTABHinhAnh {
+  display: inline-block;
+  width: 32%;
+  float: left;
+  margin-left: 2px; }
+
+.video_home1 {
+  list-style-image: url(../images/player.png);
+  font-size: 14px;
+  cursor: pointer; }
+
+.video_homenone {
+  list-style-image: none;
+  font-size: 14px;
+  cursor: pointer; }
+
+/* .player{
+	border:none;
+	width:18px !important;
+	height:16px;
+	margin-top:-2px !important;
+	background-image: url(../images/player.png);
+	background-color: transparent;	
+} */
+/* Hinh Anh */
+.cssSTTHinhAnh {
+  width: 3%; }
+
+.cssTenAlbumHinhAnh {
+  width: 24%; }
+
+.cssSoLuongHinhAnh {
+  width: 3%; }
+
+.cssMoTaAlbumHinhAnh {
+  width: 30%; }
+
+.cssLoaiAlbumHinhAnh {
+  width: 16%; }
+
+.cssNgayTaoHinhAnh {
+  width: 12%; }
+
+.cssHienHinhAnh {
+  width: 3%; }
+
+.cssThemHinhAnh {
+  width: 3%; }
+
+.cssSuaHinhAnh {
+  width: 3%; }
+
+.cssXoaHinhAnh {
+  width: 3%; }
+
+/* Hinh Anh */
+.classJustify {
+  text-align: justify; }
+
+.cddTdAudioHome {
+  word-wrap: break-word;
+  text-align: justify; }
+
+.cddTdVideoHome {
+  word-wrap: break-word;
+  text-align: justify; }
+
+/* Loại album hinh ảnh */
+.cssSTTLoaiAlbumHinhAnh {
+  width: 3%; }
+
+.cssTenLoaiAlbumHinhAnh {
+  width: 30%; }
+
+.cssMoTaLoaiAlbumHinhAnh {
+  width: 46%; }
+
+.cssNgayTaoLoaiAlbumHinhAnh {
+  width: 12%; }
+
+.cssHienLoaiAlbumHinhAnh {
+  width: 3%; }
+
+.cssSuaLoaiAlbumHinhAnh {
+  width: 3%; }
+
+.cssXoaLoaiAlbumHinhAnh {
+  width: 3%; }
+
+/* Loại album hinh ảnh */
+/*  */
+.sttAlbumAudioHome {
+  width: 8%; }
+
+.tieudeAlbumAudioHome {
+  width: 45%; }
+
+.motaAlbumAudioHome {
+  width: 47%; }
+
+/*  */
+.QTANHTieudeBang {
+  background-image: url(../images/Tables/tableth.png);
+  font-weight: bold;
+  height: 28px; }
+
+.QTANHDOCdivEdit {
+  padding: 1%;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #CCCCCC;
+  display: none;
+  background-color: #ffffff; }
+
+.QTANHDIVMAX {
+  border: 2px solid #CCCCCC;
+  border-radius: 5px;
+  margin-top: 5px;
+  padding: 10px;
+  box-shadow: 0px 0px 13px #CCCCCC; }
+
+.QTANHTieuBangchip {
+  text-align: center;
+  border: 1px solid #CCCCCC; }
+
+.QTANHChangeColor:hover {
+  background-color: #F0F8F9; }
+
+.editLib {
+  border: none;
+  width: 26px;
+  height: 16px;
+  background-image: url(../images/edit.png);
+  background-color: transparent; }
+
+.playerHome {
+  border: none;
+  width: 18px !important;
+  height: 16px;
+  margin-top: -2px !important;
+  background-image: url(../images/player.png);
+  background-color: transparent; }
+
+.player {
+  border: none;
+  width: 18px !important;
+  height: 16px;
+  margin-top: -2px !important;
+  background-image: url(../images/player.png);
+  background-color: transparent; }
+
+.playerNew {
+  border: none;
+  width: 18px !important;
+  height: 16px;
+  margin-top: -2px !important;
+  background-image: url(../images/player.png);
+  background-color: transparent; }
+
+.downloadAudio {
+  border: none;
+  width: 14px !important;
+  height: 16px;
+  margin-top: -2px !important;
+  background-image: url(../images/download.png);
+  background-color: transparent; }
+
+.playVideo {
+  border: none;
+  width: 20px;
+  height: 20px;
+  background-image: url(../images/playvideo.png);
+  background-color: transparent; }
+
+.add {
+  border: none;
+  width: 26px;
+  height: 16px;
+  background-image: url(../images/add.png);
+  background-color: transparent; }
+
+.Checkclass {
+  width: 20px;
+  height: 20px;
+  background-image: url(../images/check.png);
+  background-color: transparent; }
+
+.NotCheckclass {
+  width: 20px;
+  height: 20px;
+  background-image: url(../images/notcheck.png);
+  background-color: transparent; }
+
+.deleteLibNew {
+  border: none;
+  width: 26px;
+  height: 16px;
+  background-image: url(../images/delete.png);
+  background-color: transparent; }
+
+.ico-newstype-new {
+  background-image: url(../images/newnew.gif);
+  width: 28px;
+  height: 16px; }
+
+.QTANHDOCdiv {
+  padding: 1%;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0px 0px 10px #CCCCCC;
+  display: none;
+  background-color: #ffffff; }
+
+.QTANHKhunganh {
+  width: 159px;
+  height: 155px;
+  border: 1px solid #999999;
+  margin-left: 5px;
+  margin-top: 5px;
+  float: left; }
+
+.EditImg {
+  display: none;
+  background-color: #ffffff;
+  border: 1px solid #CCCCCC;
+  width: 400px;
+  padding: 15px; }
+
+.QTANHKhungXoa {
+  width: 200px;
+  display: none;
+  height: 30px;
+  position: absolute;
+  background-color: #EEEEEE; }
+
+.QTANHImg {
+  float: right;
+  cursor: pointer; }
+
+.QTANHbutton {
+  height: 30px;
+  background-color: #EEEEEE;
+  border: 1px solid #CCCCCC;
+  border-left: 1px solid #007bff; }
+
+.aui .nav-tabs > li, .aui .nav-pills > li {
+  float: left !important; }
+
+.mycenter {
+  margin: auto;
+  width: 50%;
+  padding: 10px; }
+
+/* S css for video */
+.SttVideo {
+  width: 2%; }
+
+.TenAlbumVideo {
+  width: 19%; }
+
+.SoLuongVideo {
+  width: 5%; }
+
+.MoTaAlbumVideo {
+  width: 19%; }
+
+.LoaiAlbumVideo {
+  width: 14%; }
+
+.ngayTaoVideo {
+  width: 12%; }
+
+.HienThiVideo {
+  width: 5%; }
+
+.TrangChuVideo {
+  width: 5%; }
+
+.ThemVideo {
+  width: 5%; }
+
+.SuaVideo {
+  width: 5%; }
+
+.XoaVideo {
+  width: 5%; }
+
+/* E css for video */
+/* s css Album audio */
+.sttAlbumAudio {
+  width: 5%; }
+
+.tieudeAlbumAudio {
+  width: 25%; }
+
+.soLuongAlbumAudio {
+  width: 5%; }
+
+.motaAlbumAudio {
+  width: 28%; }
+
+.ngaytaoAlbumAudio {
+  width: 12%; }
+
+.hienAlbumAudio {
+  width: 5%; }
+
+.themAlbumAudio {
+  width: 5%; }
+
+.suaAlbumAudio {
+  width: 5%; }
+
+.xoaAlbumAudio {
+  width: 5%; }
+
+/* e css Album audio */
+.aui .table-bordered caption + thead tr:first-child th, .aui .table-bordered caption + tbody tr:first-child th, .aui .table-bordered caption + tbody tr:first-child td, .aui .table-bordered colgroup + thead tr:first-child th, .aui .table-bordered colgroup + tbody tr:first-child th, .aui .table-bordered colgroup + tbody tr:first-child td, .aui .table-bordered thead:first-child tr:first-child th, .aui .table-bordered tbody:first-child tr:first-child th, .aui .table-bordered tbody:first-child tr:first-child td {
+  border-top: 0;
+  text-align: center;
+  font-weight: bold; }
+
+.panel {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); }
+
+.panel-default {
+  border-color: #ddd; }
+
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd; }
+
+.panel-body {
+  padding: 15px; }
+
+.panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; }
+
+.panel-primary > .panel-heading {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #337ab7; }
+
+.panel-primary {
+  border-color: #337ab7;
+  width: 30%; }
+
+.panel-primaryPopAudio {
+  border-color: #337ab7;
+  width: 30%; }
+
+.cssSTTAnh {
+  width: 3%; }
+
+.cssHinhAnh {
+  width: 18%; }
+
+.cssTenHinhAnh {
+  width: 20%; }
+
+.cssThuTuHinhAnh {
+  width: 2%; }
+
+.cssMoTaHinhAnh {
+  width: 25%; }
+
+.cssLienKetHinhAnh {
+  width: 10%; }
+
+.cssNgaytaoAnh {
+  width: 12%; }
+
+.cssHienAnh {
+  width: 3%; }
+
+.cssSuaAnh {
+  width: 3%; }
+
+.cssXoaAnh {
+  width: 3%; }
+
+/* audio */
+.colSttAudio {
+  width: 3%; }
+
+.colTieuDeAu {
+  width: 25%; }
+
+.colTieuMoTaAu {
+  width: 30%; }
+
+.colNgayTaoAu {
+  width: 13%; }
+
+.colNgheTruocAu {
+  width: 20%; }
+
+.colHienAu {
+  width: 3%; }
+
+.cssSuaAu {
+  width: 3%; }
+
+.cssXoaAu {
+  width: 3%; }
+
+/* audio */
+/*  */
+#slideshowIpQCS {
+  position: relative;
+  height: 200px; }
+
+#slideshowIpQCS IMG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 8;
+  opacity: 0.0; }
+
+#slideshowIpQCS IMG.active {
+  width: 100%;
+  cursor: pointer;
+  z-index: 10;
+  opacity: 1.0; }
+
+#slideshowIpQCS IMG.last-active {
+  z-index: 9; }
+
+/*  */
+.audioSTT {
+  width: 2%; }
+
+.audioTitle {
+  width: 38%; }
+
+.audioDescribe {
+  width: 45%; }
+
+.audioTool {
+  width: 5%; }
+
+.containerAudio {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  border-spacing: 20px; }
+
+.rowAudio {
+  display: table-row;
+  cursor: pointer; }
+
+.columnAudio1 {
+  display: table-cell;
+  word-wrap: break-word;
+  width: 5%;
+  text-align: justify;
+  vertical-align: middle; }
+
+.columnAudio2 {
+  display: table-cell;
+  word-wrap: break-word;
+  width: 100%;
+  text-align: justify;
+  vertical-align: middle; }
+
+.columnAudio3 {
+  display: table-cell;
+  word-wrap: break-word;
+  width: 0%;
+  text-align: justify;
+  vertical-align: middle; }
+
+.columnAudio4 {
+  display: table-cell;
+  word-wrap: break-word;
+  width: 5%;
+  text-align: justify;
+  vertical-align: middle; }
+
+.colSTTDeltailAVideoSTT {
+  width: 3%; }
+
+.colSTTDeltailAVideoAnhDaiDien {
+  width: 20%; }
+
+.colSTTDeltailAVideoNgayTao {
+  width: 10%; }
+
+.colSTTDeltailAVideoHien {
+  width: 3%; }
+
+.colSTTDeltailAVideoXem {
+  width: 3%; }
+
+.colSTTDeltailAVideoSua {
+  width: 3%; }
+
+.colSTTDeltailAVideoXoa {
+  width: 3%; }
+
+table {
+  border-collapse: collapse; }
+
+td {
+  padding-top: .5em;
+  padding-bottom: .5em; }
+
+/*S loại album video  */
+.colSTTLoaiAlbumVideo {
+  width: 3%; }
+
+.colTenLoaiAlbumVideo {
+  width: 36%; }
+
+.colMoTaLoaiAlbumVideo {
+  width: 47%; }
+
+.colNgayTaoLoaiAlbumVideo {
+  width: 12%; }
+
+.colHienLoaiAlbumVideo {
+  width: 3%; }
+
+.colSuaLoaiAlbumVideo {
+  width: 3%; }
+
+.colXoaLoaiAlbumVideo {
+  width: 3%; }
+
+/*E loại album video  */
+

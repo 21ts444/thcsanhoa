@@ -1,0 +1,42 @@
+.UIlia {
+  text-decoration: none;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  color: #009;
+  font-size: 13px; }
+
+.UInen {
+  height: 30px;
+  width: 200px; }
+
+.UInen1 {
+  height: 30px;
+  width: 99%; }
+
+.UIIm {
+  width: 99%;
+  height: 200px; }
+
+.UITitle {
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  color: #009;
+  font-size: 13px; }
+
+.video_home {
+  list-style-image: url(../Images/mayanh.png);
+  font-size: 13px;
+  cursor: pointer; }
+  .video_home li {
+    line-height: 15px !important; }
+    .video_home li a {
+      line-height: 15px !important; }
+
+.tagVideos {
+  background-color: #999999;
+  height: 189px; }
+
+.AnhTieudeVideos {
+  padding: 4px;
+  background-image: url(../Images/home.png);
+  font-size: 14px;
+  color: #fff; }
+

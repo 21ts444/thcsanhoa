@@ -1,0 +1,21 @@
+.Tieude {
+  font-family: "Times New Roman", Times, serif;
+  color: #F24F00;
+  width: 50%;
+  font-size: 18px; }
+
+.fi {
+  border: 1px solid #999999;
+  height: 25px; }
+
+.fi:hover {
+  border: 1px solid #3399FF; }
+
+.QTLHBut {
+  width: 45px;
+  height: 30px;
+  background-image: url(../Images/button.png);
+  color: #ffffff;
+  border-radius: 2px;
+  border: none; }
+
